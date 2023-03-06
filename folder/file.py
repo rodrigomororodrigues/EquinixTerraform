@@ -2,8 +2,8 @@ from boto3.session import Session
 
 # set aws credentials 
 
-ACESS_KEY_ID = 'AKIASZKKVZKPIF7NDHZV'
-SECRET_KEY = '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'
+ACESS_KEY_ID = 'AKIASZKKVZKPOOXJ2S6P'
+SECRET_KEY = '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'
 
 session  = Session(aws_access_key_id=ACESS_KEY_ID,aws_secret_access_key=SECRET_KEY)
 
