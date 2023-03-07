@@ -13,7 +13,6 @@ To create the laboratory, it is necessary to have the following Software's insta
 
 Git Hub Desktop, VsCode, Terraform, Account Aws, Terraform Workspace API Secrets
 
-
 # Structure for now Step 1 of model- EC2 / S3 Aws
 
 ![equinixdiagramrodrigomoro](https://user-images.githubusercontent.com/55367281/147306609-29a047b9-f439-4588-9434-ce92b7ea8c3b.jpg)
