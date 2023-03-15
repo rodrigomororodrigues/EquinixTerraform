@@ -16,8 +16,8 @@
   yum install python3 -y
   yum install python3-pip -y
   pip3 install boto3
-  aws configure set aws_access_key_id 'AKIASZKKVZKPOOXJ2S6P'
-  aws configure set aws_secret_access_key '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'
+  aws configure set aws_access_key_id 'AKIASZKKVZKPOVXMLFND'
+  aws configure set aws_secret_access_key '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'
 
   aws s3 cp  s3://equinixbucket/file.py  /usr/share/nginx/html/
   aws s3 cp --recursive s3://equinixbucket/assets/  /usr/share/nginx/html/assets
